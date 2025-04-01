@@ -32,7 +32,6 @@ public class Main {
             default:
                 System.out.println("Erro: Símbolo da operação inválido.");
         }
-
         scanner.close();
     }
 }
