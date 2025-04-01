@@ -7,7 +7,7 @@ public class Main {
         int operacao = scanner.nextInt();
         System.out.print("Digite o valor do raio: ");
         double raio = scanner.nextDouble();
-        double pi = 3.141592;
+        double pi = 3.14;
         switch (operacao) {
             case 1:
                 double perimetro = 2 * pi * raio;
